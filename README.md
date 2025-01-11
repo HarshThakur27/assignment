@@ -33,7 +33,6 @@ Make Changes and See Updates:
 Any changes you make will automatically reload the app in your browser.
 
 Available Scripts
-In the project directory, you can run:
+In the project directory, you can run by typing npm start in terminal
 
-npm start
 Runs the app in development mode. Open http://localhost:3000 to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
